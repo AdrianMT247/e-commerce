@@ -119,6 +119,9 @@ main .cart .cart div i {
 main .cart .cart__delete-icon {
   width: 100%;
 }
+main .card {
+  margin: 0 auto;
+}
 
 @media (max-width: 1024px) {
   header {
